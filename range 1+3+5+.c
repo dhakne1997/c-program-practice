@@ -1,3 +1,8 @@
+
+// 2021 dhakne balaji All Rights Reserved
+
+
+
 # include<stdio.h>
 
 int main ()
